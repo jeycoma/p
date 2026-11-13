@@ -10,7 +10,6 @@ let nama = document.getElementById("nama").value;
         }
     }
 
-
 function tampilkanData() {
 let daftar = document.getElementById("daftar");
 daftar.innerHTML = "";
